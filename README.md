@@ -49,3 +49,5 @@ Usage Instructions  使用说明
     开始清理：选择路径后，点击“确定”按钮。脚本将开始遍历指定路径下的所有文件和文件夹，并删除所有 Mac 特定的文件和文件夹。
     Completion prompt: After the cleaning is completed, a message box will pop up, indicating "Cleaning completed!".
     清理完成提示：清理完成后，会弹出一个消息框，显示“清理完成！”。
+12月更新：
+新增自动识别是否有u盘 硬盘插入，点一键清理即可，也可以自己选择文件夹。我觉得对于需要mac 和 win 混用的 打工人和同学，特别方便。
